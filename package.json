@@ -1,6 +1,6 @@
 {
   "name": "ng-modulo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Lightweight wrapper for the Web Audio API that lets you pass some audio and get its waveform/frequency data in return",
   "keywords": [
     "WebAudioAPI",
